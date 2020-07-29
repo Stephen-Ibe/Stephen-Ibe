@@ -5,7 +5,7 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 - 🔭 I’m currently working on ***a whole lot***
 - 🌱 I’m currently learning **React JS, Data Structures and Algorithms, and SASS**
 - 👯 I’m looking to collaborate on ***Open Source Projects***
-- 💬 Ask me about ***JavaScript, HTML,CSS, React, Programming Principles***
+- 💬 Ask me about ***Anything - i should have a clue***
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: ***I suck at dancing but not when i successfully scale through a hurdle(bug)***
 
