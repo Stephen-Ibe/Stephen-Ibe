@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: KalsonSaint/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://iamdarshshah.hashnode.dev/rss.xml"
+          feed_list: "https://kalson_saint.hashnode.dev/rss.xml"
