@@ -9,7 +9,7 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: ***I suck at dancing but not when i successfully scale through a hurdle(bug)***
 
-# 📩 Blog Posts:
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
