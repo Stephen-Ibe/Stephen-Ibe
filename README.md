@@ -2,18 +2,16 @@
 
 I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lagos, Nigeria. I’m passionate about making scalable and usable designs. A motivated, enthusiastic and well-organised developer, with a keen eye for beautiful design and fluent functionalty. I love reaching out to people who want to join the tech industry, helping out with resources and mentorship sessions. Away from my laptop, I play and teach the piano
 
-- 🔭 I’m currently working on ***a whole lot***
+- 🔭 I’m currently working on **_a whole lot_**
 - 🌱 I’m currently learning **React JS, Data Structures and Algorithms, and SASS**
-- 👯 I’m looking to collaborate on ***Open Source Projects***
-- 💬 Ask me about ***Anything - i should have a clue***
+- 👯 I’m looking to collaborate on **_Open Source Projects_**
+- 💬 Ask me about **_Anything - i should have a clue_**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: ***I suck at dancing but not when i successfully scale through a hurdle(bug)***
+- ⚡ Fun fact: **_I suck at dancing but not when i successfully scale through a hurdle(bug)_**
 
 # 📩 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
-- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey)
-- [Object.freeze() in JavaScript](https://iamdarshshah.hashnode.dev/objectfreeze-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 **Tool Stack:-**
@@ -27,7 +25,6 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 <code><img height="60" src="https://i7.pngguru.com/preview/444/484/1012/mysql-database-encapsulated-postscript-logo-jquery.jpg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 <code><img height="60" src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -35,11 +32,9 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-
 ![Kalson's github stats](https://github-readme-stats.vercel.app/api?username=kalsonsaint&show_icons=true&hide_border=true)
 
-***Connect with Me:-***
-
+**_Connect with Me:-_**
 
 <a href="https://www.linkedin.com/in/ibestephen">
   <img align="left" alt="Ibe Stephen | LinkedIn" width="50px" height="50px" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" />
@@ -55,6 +50,3 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 <a href="https://kalson_saint.hashnode.dev/">
   <img align="left" alt="Ibe Stephen's Blog" width="50px" height="50px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" />
 </a>
-
-
-
