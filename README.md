@@ -11,6 +11,9 @@ I'm **Ibe Stephen Kalson** a frontend engineer and technical writer based in Lag
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
+- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey)
+- [Object.freeze() in JavaScript](https://iamdarshshah.hashnode.dev/objectfreeze-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 **Tool Stack:-**
