@@ -12,11 +12,11 @@ I'm **Stephen Kalson** a frontend engineer and technical writer based in Lagos, 
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Functions Demystified](https://kalson_saint.hashnode.dev/javascript-functions-demystified)
 - [Differences between Controlled vs Uncontrolled Component in React JS](https://kalson_saint.hashnode.dev/differences-between-controlled-vs-uncontrolled-component-in-react-js)
 - [Understanding Props and States in ReactJS](https://kalson_saint.hashnode.dev/understanding-props-and-states-in-reactjs)
 - [Understanding Web Storage: localStorage and sessionStorage](https://kalson_saint.hashnode.dev/understanding-web-storage-localstorage-and-sessionstorage)
 - [How to deploy React App to Github Pages](https://kalson_saint.hashnode.dev/how-to-deploy-react-app-to-github-pages)
-- [Git vs Github: The Significant Differences](https://kalson_saint.hashnode.dev/git-vs-github-the-significant-differences)
 <!-- BLOG-POST-LIST:END -->
 
 **Tool Stack:-**
