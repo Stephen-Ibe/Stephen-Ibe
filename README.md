@@ -3,7 +3,7 @@
 I'm **Stephen Kalson** a frontend engineer and technical writer based in Lagos, Nigeria. I’m passionate about making scalable and usable designs. A motivated, enthusiastic and well-organised developer, with a keen eye for beautiful design and fluent functionalty. I love reaching out to people who want to join the tech industry, helping out with resources and mentorship sessions. Away from my laptop, I play and teach the piano
 
 - 🔭 I’m currently working on **_a whole lot_**
-- 🌱 I’m currently learning **React JS, Data Structures and Algorithms, and SASS**
+- 🌱 I’m currently learning **HOW TO BECOME BETTER DAILY, AND BE RELEVANT TO MY GENERATION AND THE WORLD**
 - 👯 I’m looking to collaborate on **_Open Source Projects_**
 - 💬 Ask me about **_Anything - i should have a clue_**
 - 😄 Pronouns: **He/Him**
