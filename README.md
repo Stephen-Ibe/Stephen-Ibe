@@ -37,7 +37,7 @@ I'm **Stephen Kalson** a frontend engineer and technical writer based in Lagos, 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-![Kalson's github stats](https://github-readme-stats.vercel.app/api?username=kalsonsaint&show_icons=true&hide_border=true)
+![Kalson's github stats](https://github-readme-stats.vercel.app/api?username=stephen-ibe&show_icons=true&hide_border=true)
 
 **_Connect with Me:-_**
 
